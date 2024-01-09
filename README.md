@@ -9,3 +9,5 @@ The data for this investigation:
 5. Dendrochronological measurements (Demidko);
 6. Tree deseases (Kulakov);
 7. Soil respiration and soil properties (Trefilova, Bobkova). 
+
+*no_soil* branch is for data without soil features. 
