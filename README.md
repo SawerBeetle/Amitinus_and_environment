@@ -10,4 +10,4 @@ The data for this investigation:
 6. Tree deseases (Kulakov);
 7. Soil respiration and soil properties (Trefilova, Bobkova). 
 
-*no_soil* branch is for data without soil features. 
+*no_soil* branch is for data without soil features (see Amitinus_1). 
